@@ -1,1 +1,1 @@
-# Initialization script for the encryption algorythm
+# Initialization script for the encryption algorithm
